@@ -1,0 +1,42 @@
+.header {
+    background-image: url("https://hope-psy.org.sa/uploads/2025_03_02_02_21_51_astratygy-algmaay.png");
+        position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+    /* align-items: center; */
+    z-index: 1;
+    
+    flex-direction: column;
+}
+.header .h3 {
+    padding-top: 50px;
+    margin-right: 100px;
+    color: aliceblue;
+
+}
+.header h3 span {
+    /* color: aliceblue; */
+    color: rgb(45, 151, 188)
+}
+.header p {
+    color: aliceblue;
+    margin-right: 100px;
+}
+.x h4{
+    padding-bottom: 30px;
+}
+.x h6{
+    padding-bottom: 20px;
+}
+.one h3 {
+    color: #001b71;
+    font-size: 20px;
+}
+.two h3 {
+    color: #001b71;
+    font-size: 20px;
+}

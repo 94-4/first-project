@@ -1,0 +1,43 @@
+.header {
+            background-image: url("	https://hope-psy.org.sa/uploads/2024_05_05_11_50_21_adf-alsfhh.png	");
+    
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+    /* align-items: center; */
+    z-index: 1;
+    
+    flex-direction: column;
+}
+.header {
+    color: white;
+
+}
+.header h3 {
+        padding-top: 50px;
+    margin-right: 100px;
+}
+    .header h6 {
+        margin-right: 100px;
+    }
+    .money .mon h3 {
+        color: #001b71;
+        margin-top: 50px;
+    }
+    .money .download {
+        width: 500px;
+        margin-left: 800px;
+        background-color: rgb(248, 246, 244);
+        text-align: center;
+        padding: 20px;
+        margin-bottom: 50px;
+        border-radius: 20px;
+        box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important ;
+    }
+    .money .download h3 {
+        color: #001b71;
+    }

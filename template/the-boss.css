@@ -1,0 +1,50 @@
+.header {
+    background-image: url("https://hope-psy.org.sa/uploads/2024_05_05_11_37_02_mn-nhn.png");
+    
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+    /* align-items: center; */
+    z-index: 1;
+    
+    flex-direction: column;
+}
+.header h1{
+  padding-top: 50px;
+margin-right: 100px;
+color: aliceblue;
+}
+.header h1 span {
+    color: #00ccff;
+}
+.header h3 {
+  color: aliceblue;
+  margin-right: 100px;
+}
+
+
+.image {
+  text-align: center;
+  max-width: 300px;
+  margin: auto;
+  background-color: #152350;
+  border: 2px solid black;
+    margin-top: 100px;
+    color: aliceblue;
+      box-shadow: -2px 1px 20px 10px  rgba(0, 0, 0, 0.2)
+}
+
+.image img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.image .info {
+  margin-top: 15px;
+  line-height: 1.8;
+}
+
