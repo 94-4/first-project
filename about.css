@@ -1,0 +1,171 @@
+.header {
+    background-image: url("	https://hope-psy.org.sa/uploads/2024_05_05_11_37_02_mn-nhn.png");
+    
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+
+    z-index: 1;
+
+    flex-direction: column;
+}
+.header h1 {
+    padding-top: 50px;
+color: azure;
+margin-right: 100px;
+
+}
+.header h1 span {
+    color: #00ccff;
+}
+.header h3{
+    color: aliceblue;
+    margin-right: 100px;
+}
+.about {
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.about h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.about p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.Our-vision {
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.Our-vision h1 {
+    color:#001b71;
+    font-size: 20px;
+}
+.Our-vision p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.our-message {
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.our-message h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.our-message p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.our-goals {
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.our-goals h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.our-goals p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.values {
+    
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.values h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.values p {
+    
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.Justice {
+    
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.Justice h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.Justice p {
+    
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.Inclusion {
+    
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.Inclusion h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.Inclusion p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.quelty {
+    
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.quelty h1 {
+    color: #001b71;
+    font-size: 20px;
+}
+.quelty p {
+
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}
+.Innovation {
+    
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.Innovation  h1{
+    color: #001b71;
+    font-size: 20px;
+}
+.Innovation p {
+    width: 600px;
+    margin-left: 58%;
+    opacity: 0.6;
+}

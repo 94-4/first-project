@@ -1,0 +1,61 @@
+.header {
+        background-image: url("https://hope-psy.org.sa/uploads/2024_06_04_09_55_44_alloayh-oalsyasat.png");
+    
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+    /* align-items: center; */
+    z-index: 1;
+    
+    flex-direction: column;
+}
+
+.header h3{
+    padding-top: 50px;
+    margin-right: 100px;
+    color: #ffffff;
+}
+.header h3 span {
+    color: #007aff;
+}
+.header h6{
+    color: aliceblue;
+    margin-right: 100px;
+}
+.policy-card:hover {
+/* background-image: linear-gradient(to right ); */
+background-image: linear-gradient(to  left, #007aff, #00a7e1);
+color: #ffffff;
+
+}
+.policy-card:hover h4,
+.policy-card:hover p {
+    color: #fff !important;
+}
+.policy-card h4 {
+    color: #001b71;
+    font-size: 20px;
+}
+/* .policy-card h4:hover {
+    color: #ffffff;
+}
+.policy-card p:hover {
+    color: #ffffff;
+} */
+.policy-card a {
+    background-color:#00a7e1;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 15px;
+}
+.policy-card a:hover {
+    background-color: #001b71;
+    color: #ffffff;
+}
+p{
+    height: 80px;
+}

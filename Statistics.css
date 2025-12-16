@@ -1,0 +1,97 @@
+.header {
+        background-image: url("https://hope-psy.org.sa/uploads/2024_05_05_11_46_51_ahsayyat-algmaay.png");
+    
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+    display: flex;
+
+    z-index: 1;
+
+    flex-direction: column;
+}
+.header h3 {
+    color: aliceblue;
+    padding-top: 50px;
+    margin-right: 100px;
+}
+.header h3 span {
+    color: #0099ff;
+}
+.header h6 {
+    color: white;
+    margin-right: 100px;
+}
+
+
+.stats-section{
+    padding: 40px 0;
+    background: url('') center/cover no-repeat; 
+    background-color: #f7fbfd;
+}
+
+
+.stat-card{
+    background:#fff;
+    padding:30px 20px;
+    text-align:center;
+    border-radius:6px;
+    box-shadow: 0 6px 18px rgba(30,40,60,0.06);
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    gap:8px;
+    position:relative;
+    overflow:hidden;
+    border:1px solid rgba(0,0,0,0.03);
+}
+
+
+.stat-number{
+    font-size:44px;
+    font-weight:800;
+    color:#0ea5c9; 
+    line-height:1;
+    letter-spacing:0.5px;
+    display:inline-block;
+    min-width:1ch;
+}
+
+
+.stat-plus{
+    color:#0ea5c9;
+    font-weight:800;
+    display:inline-block;
+    margin-right:6px;
+    font-size:32px;
+    vertical-align:middle;
+}
+
+
+.stat-number, .stat-plus {
+    display:inline-block;
+    vertical-align:middle;
+}
+
+
+.stat-title{
+    font-size:16px;
+    font-weight:600;
+    color:#1f3d5a;
+    margin-top:8px;
+}
+.stat-sub{
+    font-size:13px;
+    color:#9aa6b2;
+}
+
+/* استجابة */
+@media (max-width:576px){
+    .stat-number{ font-size:36px; }
+    .stat-plus{ font-size:28px; }
+    .stat-card{ padding:20px; }
+}

@@ -1,0 +1,90 @@
+.header {
+    background-image: url("https://hope-psy.org.sa/uploads/2025_02_23_10_42_02_lgan-algmaay.jpg");
+    position: relative;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 180px;
+
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 20px 40px;
+
+    flex-direction: row-reverse; /* هنا العكس */
+
+}
+
+
+ .header .Committees h3 {
+    color: #007aff;
+    margin: 0;
+}
+
+.header .Committees h6 {
+    color: aliceblue;
+    margin: 0;
+    margin-top: 5px;
+}
+.inp label {
+    color: aliceblue;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.inp select {
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+.meeting-card {
+    background: #ffffff;
+    border-radius: 30px; 
+    padding: 35px 30px;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.08);
+    transition: 0.3s ease-in-out;
+    text-align: right; 
+    border: none;
+}
+
+
+.meeting-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 22px rgba(0,0,0,0.12);
+}
+
+
+.meeting-card h5 {
+    color: #0d3f70; 
+}
+
+.meeting-card p {
+    color: #6c757d;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.meeting-card .download-btn {
+    display: inline-block;
+    background: #07A4FF; 
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    border: none;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.meeting-card .download-btn:hover {
+    background: #0089d8;
+}

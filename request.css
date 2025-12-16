@@ -1,0 +1,55 @@
+
+.partners-header {
+    background-image: url("https://hope-psy.org.sa/uploads/2024_05_05_11_40_08_shrkaaa-fy-algmaay.png");
+  display: flex;
+  justify-content: space-between; /* توزيع العناصر يمين ويسار */
+  align-items: center; /* توسيط عمودي */
+
+  background-size: cover;
+  padding: 40px 20px;
+  color: white; /* حسب لون الخلفية */
+}
+
+.right-box h4 {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.partner-btn {
+  background-color: #00b6ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.left-box {
+  text-align: left;
+}
+
+.left-box h3 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.left-box span {
+  color: #00b6ff;
+}
+
+.left-box p {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+
+
+.es{
+    color: #001b71;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.x {
+    color: #001b71;
+}
